@@ -1,0 +1,9 @@
+torch>=2.1.0
+torchvision>=0.17.1
+torchaudio>=2.1.0
+datasets>=2.15.1
+tokenizers>=0.15.1
+tqdm>=4.66.1
+numpy>=1.25.0
+pandas>=2.1.0
+matplotlib>=3.8.0
